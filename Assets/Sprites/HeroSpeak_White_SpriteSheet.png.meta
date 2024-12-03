@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: 348b63f6f3827b74eb73be4e992bc5ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -611660412614040724
+    second: HeroSpeak_White_SpriteSheet_0
+  - first:
+      213: -1839329337555065973
+    second: HeroSpeak_White_SpriteSheet_1
+  - first:
+      213: -4083093433493809238
+    second: HeroSpeak_White_SpriteSheet_2
+  - first:
+      213: -1918654241819529625
+    second: HeroSpeak_White_SpriteSheet_3
+  - first:
+      213: -3177785785535868015
+    second: HeroSpeak_White_SpriteSheet_4
+  - first:
+      213: 3061170079076309862
+    second: HeroSpeak_White_SpriteSheet_5
+  - first:
+      213: 5689045607137736124
+    second: HeroSpeak_White_SpriteSheet_6
+  - first:
+      213: -8289315968663996161
+    second: HeroSpeak_White_SpriteSheet_7
+  - first:
+      213: -6166621648030173230
+    second: HeroSpeak_White_SpriteSheet_8
+  - first:
+      213: -5547956570701334007
+    second: HeroSpeak_White_SpriteSheet_9
+  - first:
+      213: -6637401497412155903
+    second: HeroSpeak_White_SpriteSheet_10
+  - first:
+      213: 2331877849635488225
+    second: HeroSpeak_White_SpriteSheet_11
+  - first:
+      213: -1048139803362863881
+    second: HeroSpeak_White_SpriteSheet_12
+  - first:
+      213: 2861999811364887059
+    second: HeroSpeak_White_SpriteSheet_13
+  - first:
+      213: -8486294276760989232
+    second: HeroSpeak_White_SpriteSheet_14
+  - first:
+      213: -4512332468222850857
+    second: HeroSpeak_White_SpriteSheet_15
+  - first:
+      213: -5738175235835039763
+    second: HeroSpeak_White_SpriteSheet_16
+  - first:
+      213: -531215444674083572
+    second: HeroSpeak_White_SpriteSheet_17
+  - first:
+      213: 1363278993121282556
+    second: HeroSpeak_White_SpriteSheet_18
+  - first:
+      213: 3812753148226106210
+    second: HeroSpeak_White_SpriteSheet_19
+  - first:
+      213: 1355708153858148002
+    second: HeroSpeak_White_SpriteSheet_20
+  - first:
+      213: -5017675587235332878
+    second: HeroSpeak_White_SpriteSheet_21
+  - first:
+      213: -4357165904842131433
+    second: HeroSpeak_White_SpriteSheet_22
+  - first:
+      213: 5109959700449351813
+    second: HeroSpeak_White_SpriteSheet_23
+  - first:
+      213: -251989327873078097
+    second: HeroSpeak_White_SpriteSheet_24
+  - first:
+      213: -5923240130881882777
+    second: HeroSpeak_White_SpriteSheet_25
+  - first:
+      213: 172460778409297033
+    second: HeroSpeak_White_SpriteSheet_26
+  - first:
+      213: 3296401774962188939
+    second: HeroSpeak_White_SpriteSheet_27
+  - first:
+      213: -7940006506297213264
+    second: HeroSpeak_White_SpriteSheet_28
+  - first:
+      213: -2121787398402664933
+    second: HeroSpeak_White_SpriteSheet_29
+  - first:
+      213: 4981675701383576331
+    second: HeroSpeak_White_SpriteSheet_30
+  - first:
+      213: 5230867992390775542
+    second: HeroSpeak_White_SpriteSheet_31
+  - first:
+      213: -5207033215032408955
+    second: HeroSpeak_White_SpriteSheet_32
+  - first:
+      213: -426710250836040766
+    second: HeroSpeak_White_SpriteSheet_33
+  - first:
+      213: 4174481681633090224
+    second: HeroSpeak_White_SpriteSheet_34
+  - first:
+      213: 2988747808067528714
+    second: HeroSpeak_White_SpriteSheet_35
+  - first:
+      213: 7099636581601260130
+    second: HeroSpeak_White_SpriteSheet_36
+  - first:
+      213: 2835912176780035683
+    second: HeroSpeak_White_SpriteSheet_37
+  - first:
+      213: 1487427333768147042
+    second: HeroSpeak_White_SpriteSheet_38
+  - first:
+      213: 3878908948600777087
+    second: HeroSpeak_White_SpriteSheet_39
+  - first:
+      213: -2869540953506686320
+    second: HeroSpeak_White_SpriteSheet_40
+  - first:
+      213: 3901275681046404206
+    second: HeroSpeak_White_SpriteSheet_41
+  - first:
+      213: -3738542508745343445
+    second: HeroSpeak_White_SpriteSheet_42
+  - first:
+      213: -1326931748691310924
+    second: HeroSpeak_White_SpriteSheet_43
+  - first:
+      213: -8442193161466131892
+    second: HeroSpeak_White_SpriteSheet_44
+  - first:
+      213: -3775252678609578177
+    second: HeroSpeak_White_SpriteSheet_45
+  - first:
+      213: 8093313090775737635
+    second: HeroSpeak_White_SpriteSheet_46
+  - first:
+      213: 8176583641105051652
+    second: HeroSpeak_White_SpriteSheet_47
+  - first:
+      213: 5942409038341371954
+    second: HeroSpeak_White_SpriteSheet_48
+  - first:
+      213: -3345118298097942778
+    second: HeroSpeak_White_SpriteSheet_49
+  - first:
+      213: -237688022596163774
+    second: HeroSpeak_White_SpriteSheet_50
+  - first:
+      213: -4587037921848925128
+    second: HeroSpeak_White_SpriteSheet_51
+  - first:
+      213: 2830548661523568847
+    second: HeroSpeak_White_SpriteSheet_52
+  - first:
+      213: -7622752397952574892
+    second: HeroSpeak_White_SpriteSheet_53
+  - first:
+      213: -6209314460320709270
+    second: HeroSpeak_White_SpriteSheet_54
+  - first:
+      213: 7501621467466104547
+    second: HeroSpeak_White_SpriteSheet_55
+  - first:
+      213: 3394358934048685358
+    second: HeroSpeak_White_SpriteSheet_56
+  - first:
+      213: -8672851397522340308
+    second: HeroSpeak_White_SpriteSheet_57
+  - first:
+      213: 1685754849320555768
+    second: HeroSpeak_White_SpriteSheet_58
+  - first:
+      213: 2967428453777767673
+    second: HeroSpeak_White_SpriteSheet_59
+  - first:
+      213: -5793576128616223801
+    second: HeroSpeak_White_SpriteSheet_60
+  - first:
+      213: -7393096173920884575
+    second: HeroSpeak_White_SpriteSheet_61
+  - first:
+      213: -8726154210586582859
+    second: HeroSpeak_White_SpriteSheet_62
+  - first:
+      213: 5487562175136738096
+    second: HeroSpeak_White_SpriteSheet_63
+  - first:
+      213: -6719664021260484654
+    second: HeroSpeak_White_SpriteSheet_64
+  - first:
+      213: -2295139778643103001
+    second: HeroSpeak_White_SpriteSheet_65
+  - first:
+      213: -4203839892468405401
+    second: HeroSpeak_White_SpriteSheet_66
+  - first:
+      213: -938990893926563680
+    second: HeroSpeak_White_SpriteSheet_67
+  - first:
+      213: -2048449698460916495
+    second: HeroSpeak_White_SpriteSheet_68
+  - first:
+      213: -6935588434431000887
+    second: HeroSpeak_White_SpriteSheet_69
+  - first:
+      213: -7160161074032171648
+    second: HeroSpeak_White_SpriteSheet_70
+  - first:
+      213: 1872519273341078425
+    second: HeroSpeak_White_SpriteSheet_71
+  - first:
+      213: -1190719556985409218
+    second: HeroSpeak_White_SpriteSheet_72
+  - first:
+      213: -3324020642953636874
+    second: HeroSpeak_White_SpriteSheet_73
+  - first:
+      213: -233282602073647078
+    second: HeroSpeak_White_SpriteSheet_74
+  - first:
+      213: 1878659351358232602
+    second: HeroSpeak_White_SpriteSheet_75
+  - first:
+      213: 8251491084134085409
+    second: HeroSpeak_White_SpriteSheet_76
+  - first:
+      213: 2466747681024559113
+    second: HeroSpeak_White_SpriteSheet_77
+  - first:
+      213: 1728678427387194901
+    second: HeroSpeak_White_SpriteSheet_78
+  - first:
+      213: -2530402632881234529
+    second: HeroSpeak_White_SpriteSheet_79
+  - first:
+      213: 2726545525731362529
+    second: HeroSpeak_White_SpriteSheet_80
+  - first:
+      213: -3687939609293477437
+    second: HeroSpeak_White_SpriteSheet_81
+  - first:
+      213: 1577651459996003138
+    second: HeroSpeak_White_SpriteSheet_82
+  - first:
+      213: -1112505037014664963
+    second: HeroSpeak_White_SpriteSheet_83
+  - first:
+      213: -5531945849941631626
+    second: HeroSpeak_White_SpriteSheet_84
+  - first:
+      213: 8622257399083609957
+    second: HeroSpeak_White_SpriteSheet_85
+  - first:
+      213: -2231957514885137338
+    second: HeroSpeak_White_SpriteSheet_86
+  - first:
+      213: 8032719586575506949
+    second: HeroSpeak_White_SpriteSheet_87
+  - first:
+      213: -4819651829047032781
+    second: HeroSpeak_White_SpriteSheet_88
+  - first:
+      213: -7451921250564623866
+    second: HeroSpeak_White_SpriteSheet_89
+  - first:
+      213: -6223175374832177528
+    second: HeroSpeak_White_SpriteSheet_90
+  - first:
+      213: -351687886253046759
+    second: HeroSpeak_White_SpriteSheet_91
+  - first:
+      213: 7986751557386831324
+    second: HeroSpeak_White_SpriteSheet_92
+  - first:
+      213: 3057548349707747335
+    second: HeroSpeak_White_SpriteSheet_93
+  - first:
+      213: -7390695789465274830
+    second: HeroSpeak_White_SpriteSheet_94
+  - first:
+      213: 5489846412729396992
+    second: HeroSpeak_White_SpriteSheet_95
+  - first:
+      213: 1886567684101092013
+    second: HeroSpeak_White_SpriteSheet_96
+  - first:
+      213: -2709385365725117872
+    second: HeroSpeak_White_SpriteSheet_97
+  - first:
+      213: -8748503690935254
+    second: HeroSpeak_White_SpriteSheet_98
+  - first:
+      213: 217308970643211852
+    second: HeroSpeak_White_SpriteSheet_99
+  - first:
+      213: 8881366615108450677
+    second: HeroSpeak_White_SpriteSheet_100
+  - first:
+      213: 8680917082921833779
+    second: HeroSpeak_White_SpriteSheet_101
+  - first:
+      213: 770270563443800572
+    second: HeroSpeak_White_SpriteSheet_102
+  - first:
+      213: 7469345205563618702
+    second: HeroSpeak_White_SpriteSheet_103
+  - first:
+      213: -1308474581384065987
+    second: HeroSpeak_White_SpriteSheet_104
+  - first:
+      213: 7525621409043731705
+    second: HeroSpeak_White_SpriteSheet_105
+  - first:
+      213: -8052053016067813032
+    second: HeroSpeak_White_SpriteSheet_106
+  - first:
+      213: -2298271907834988736
+    second: HeroSpeak_White_SpriteSheet_107
+  - first:
+      213: 3745903714368512355
+    second: HeroSpeak_White_SpriteSheet_108
+  - first:
+      213: 90724820483826677
+    second: HeroSpeak_White_SpriteSheet_109
+  - first:
+      213: -7904476077103545618
+    second: HeroSpeak_White_SpriteSheet_110
+  - first:
+      213: -1907183679145938725
+    second: HeroSpeak_White_SpriteSheet_111
+  - first:
+      213: -4794241932570802464
+    second: HeroSpeak_White_SpriteSheet_112
+  - first:
+      213: -2037883683230040454
+    second: HeroSpeak_White_SpriteSheet_113
+  - first:
+      213: 6193008789656398660
+    second: HeroSpeak_White_SpriteSheet_114
+  - first:
+      213: 3387834692082344703
+    second: HeroSpeak_White_SpriteSheet_115
+  - first:
+      213: 6703522512355666111
+    second: HeroSpeak_White_SpriteSheet_116
+  - first:
+      213: 4210426978388228182
+    second: HeroSpeak_White_SpriteSheet_117
+  - first:
+      213: -8710655700185462433
+    second: HeroSpeak_White_SpriteSheet_118
+  - first:
+      213: 5240821188849828215
+    second: HeroSpeak_White_SpriteSheet_119
+  - first:
+      213: 5384143240647378037
+    second: HeroSpeak_White_SpriteSheet_120
+  - first:
+      213: 4343618447044921875
+    second: HeroSpeak_White_SpriteSheet_121
+  - first:
+      213: -1065651190580650718
+    second: HeroSpeak_White_SpriteSheet_122
+  - first:
+      213: 4163319889768191343
+    second: HeroSpeak_White_SpriteSheet_123
+  - first:
+      213: 4494520827445782870
+    second: HeroSpeak_White_SpriteSheet_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63a8fe6812f287f0800000000000000
+      internalID: -611660412614040724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83631276b36976e0800000000000000
+      internalID: -1839329337555065973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa71fd7c720f557c0800000000000000
+      internalID: -4083093433493809238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 156
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eec8de1229f55e0800000000000000
+      internalID: -1918654241819529625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19359d82aac36e3d0800000000000000
+      internalID: -3177785785535868015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd568d7f57b7a20800000000000000
+      internalID: 3061170079076309862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5f07c76dc83fe40800000000000000
+      internalID: 5689045607137736124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83fc09b0f66fc80800000000000000
+      internalID: -8289315968663996161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77de48842cb6aa0800000000000000
+      internalID: -6166621648030173230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a7d0ea4e2b103b0800000000000000
+      internalID: -5547956570701334007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064a1b218633e3a0800000000000000
+      internalID: -6637401497412155903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10027ac8e7c5020800000000000000
+      internalID: 2331877849635488225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4db91f6624471f0800000000000000
+      internalID: -1048139803362863881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a93a73aadd7b720800000000000000
+      internalID: 2861999811364887059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 156
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d11b3e4150aa3a80800000000000000
+      internalID: -8486294276760989232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d88d1b0789f061c0800000000000000
+      internalID: -4512332468222850857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defeb117608ed50b0800000000000000
+      internalID: -5738175235835039763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0500091e5eb0a8f0800000000000000
+      internalID: -531215444674083572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90fb275075be210800000000000000
+      internalID: 1363278993121282556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f44899ce99e430800000000000000
+      internalID: 3812753148226106210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c0d1126170d210800000000000000
+      internalID: 1355708153858148002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc30b063a2ad5ab0800000000000000
+      internalID: -5017675587235332878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f07ed1bc3883c0800000000000000
+      internalID: -4357165904842131433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58858d916493ae640800000000000000
+      internalID: 5109959700449351813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac8fe89a01c08cf0800000000000000
+      internalID: -251989327873078097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765727fcb7c6ccda0800000000000000
+      internalID: -5923240130881882777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98406ca0a24b46200800000000000000
+      internalID: 172460778409297033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a69103fb2fbd20800000000000000
+      internalID: 3296401774962188939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be3dd5862e6fc190800000000000000
+      internalID: -7940006506297213264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b161f455a95ed82e0800000000000000
+      internalID: -2121787398402664933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bb92708a7722540800000000000000
+      internalID: 4981675701383576331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b96989b6c79840800000000000000
+      internalID: 5230867992390775542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584455401e6ecb7b0800000000000000
+      internalID: -5207033215032408955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c366e4a945041af0800000000000000
+      internalID: -426710250836040766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba9d1bd8fcbee930800000000000000
+      internalID: 4174481681633090224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 164
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08a71fdb4a2a7920800000000000000
+      internalID: 2988747808067528714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26236b00bd9f68260800000000000000
+      internalID: 7099636581601260130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366cd27791f2b5720800000000000000
+      internalID: 2835912176780035683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f472874764a410800000000000000
+      internalID: 1487427333768147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79ee6d2327a4d530800000000000000
+      internalID: 3878908948600777087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5ccdc4b75d28d0800000000000000
+      internalID: -2869540953506686320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c14a3ef8d142630800000000000000
+      internalID: 3901275681046404206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e398c55670e1cc0800000000000000
+      internalID: -3738542508745343445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6011eda9ac59de0800000000000000
+      internalID: -1326931748691310924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a449d5c0e47da80800000000000000
+      internalID: -8442193161466131892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375222e0bb9b9bc0800000000000000
+      internalID: -3775252678609578177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325e4b73069315070800000000000000
+      internalID: 8093313090775737635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400365c008f097170800000000000000
+      internalID: 8176583641105051652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 98
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2387860498da77250800000000000000
+      internalID: 5942409038341371954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f763e81a0c391d0800000000000000
+      internalID: -3345118298097942778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2476ac5b00093bcf0800000000000000
+      internalID: -237688022596163774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e2f030519750c0800000000000000
+      internalID: -4587037921848925128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d191c201284720800000000000000
+      internalID: 2830548661523568847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9745c41b863690800000000000000
+      internalID: -7622752397952574892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 124
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6543ed856514d9a0800000000000000
+      internalID: -6209314460320709270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 124
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef2c7bafc1b1860800000000000000
+      internalID: 7501621467466104547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d3528677f2b1f20800000000000000
+      internalID: 3394358934048685358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264eecca97d3a780800000000000000
+      internalID: -8672851397522340308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d42c9a11056710800000000000000
+      internalID: 1685754849320555768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7fc3e47c6e2920800000000000000
+      internalID: 2967428453777767673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cba5aae435199fa0800000000000000
+      internalID: -5793576128616223801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8652b3332766990800000000000000
+      internalID: -7393096173920884575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b025b68af876e680800000000000000
+      internalID: -8726154210586582859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b25e359bcb72c40800000000000000
+      internalID: 5487562175136738096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfbbcacc25feb2a0800000000000000
+      internalID: -6719664021260484654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2fb1018860620e0800000000000000
+      internalID: -2295139778643103001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bedc404e5f8a5c0800000000000000
+      internalID: -4203839892468405401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a04e28c1c808f2f0800000000000000
+      internalID: -938990893926563680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42bf63ad17293e0800000000000000
+      internalID: -2048449698460916495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cebe61b017dfbf90800000000000000
+      internalID: -6935588434431000887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085abb7707ff1ac90800000000000000
+      internalID: -7160161074032171648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b419aab568cf910800000000000000
+      internalID: 1872519273341078425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3136c22fd6b97fe0800000000000000
+      internalID: -1190719556985409218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 60
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3deae26d4bed1d0800000000000000
+      internalID: -3324020642953636874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a181f1b95b633ccf0800000000000000
+      internalID: -233282602073647078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185cabf9b6521a10800000000000000
+      internalID: 1878659351358232602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237d193c6f238270800000000000000
+      internalID: 8251491084134085409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908ccfd42f5ab3220800000000000000
+      internalID: 2466747681024559113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6b4beedf7df710800000000000000
+      internalID: 1728678427387194901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d9668463432ecd0800000000000000
+      internalID: -2530402632881234529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60625b5b2a6d520800000000000000
+      internalID: 2726545525731362529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c928f2077ec1dcc0800000000000000
+      internalID: -3687939609293477437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2074e4a1f4e510800000000000000
+      internalID: 1577651459996003138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df878e920969f80f0800000000000000
+      internalID: -1112505037014664963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d58891f849a33b0800000000000000
+      internalID: -5531945849941631626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fac5afb6968a770800000000000000
+      internalID: 8622257399083609957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cf183377e7601e0800000000000000
+      internalID: -2231957514885137338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed722a7e3f97f60800000000000000
+      internalID: 8032719586575506949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 64
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334079472382d1db0800000000000000
+      internalID: -4819651829047032781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60239e5ca15759890800000000000000
+      internalID: -7451921250564623866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e6b28e7f6d2a9a0800000000000000
+      internalID: -6223175374832177528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91444141bbd8e1bf0800000000000000
+      internalID: -351687886253046759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5075fc934a6de60800000000000000
+      internalID: 7986751557386831324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70089e346089e6a20800000000000000
+      internalID: 3057548349707747335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23672f94659fe6990800000000000000
+      internalID: -7390695789465274830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2036d93adf2c40800000000000000
+      internalID: 5489846412729396992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b39f205f6e2a10800000000000000
+      internalID: 1886567684101092013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05200546d54566ad0800000000000000
+      internalID: -2709385365725117872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a248f21484be0eff0800000000000000
+      internalID: -8748503690935254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46c1b18b59040300800000000000000
+      internalID: 217308970643211852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5797d8581e3f04b70800000000000000
+      internalID: 8881366615108450677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3351d2ce710d87870800000000000000
+      internalID: 8680917082921833779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f1031ffc80ba00800000000000000
+      internalID: 770270563443800572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f262e3e178a760800000000000000
+      internalID: 7469345205563618702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c89f20d4d57dde0800000000000000
+      internalID: -1308474581384065987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f450209cc0607860800000000000000
+      internalID: 7525621409043731705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8515aa8817c514090800000000000000
+      internalID: -8052053016067813032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0477c3860e5ea10e0800000000000000
+      internalID: -2298271907834988736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36160c1e49f1cf330800000000000000
+      internalID: 3745903714368512355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ef395eb1524100800000000000000
+      internalID: 90724820483826677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee28ba833e8ad4290800000000000000
+      internalID: -7904476077103545618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0751b6c825885e0800000000000000
+      internalID: -1907183679145938725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c5d10d5e677db0800000000000000
+      internalID: -4794241932570802464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3287569bf7b3e0800000000000000
+      internalID: -2037883683230040454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b6756aeacf1f550800000000000000
+      internalID: 6193008789656398660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22053f3b1040f20800000000000000
+      internalID: 3387834692082344703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82bcc4532b70d50800000000000000
+      internalID: 6703522512355666111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583d8f67017e6a30800000000000000
+      internalID: 4210426978388228182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59c6bdaac88d1780800000000000000
+      internalID: -8710655700185462433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7710cbcaa132bb840800000000000000
+      internalID: 5240821188849828215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748b9e30c158ba40800000000000000
+      internalID: 5384143240647378037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a42ffc6f1a74c30800000000000000
+      internalID: 4343618447044921875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd7f263eb0631f0800000000000000
+      internalID: -1065651190580650718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6593fba16517c930800000000000000
+      internalID: 4163319889768191343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroSpeak_White_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659208b21eebf5e30800000000000000
+      internalID: 4494520827445782870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e30cabd252a14848b360eed716aa5e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroSpeak_White_SpriteSheet_0: -611660412614040724
+      HeroSpeak_White_SpriteSheet_1: -1839329337555065973
+      HeroSpeak_White_SpriteSheet_10: -6637401497412155903
+      HeroSpeak_White_SpriteSheet_100: 8881366615108450677
+      HeroSpeak_White_SpriteSheet_101: 8680917082921833779
+      HeroSpeak_White_SpriteSheet_102: 770270563443800572
+      HeroSpeak_White_SpriteSheet_103: 7469345205563618702
+      HeroSpeak_White_SpriteSheet_104: -1308474581384065987
+      HeroSpeak_White_SpriteSheet_105: 7525621409043731705
+      HeroSpeak_White_SpriteSheet_106: -8052053016067813032
+      HeroSpeak_White_SpriteSheet_107: -2298271907834988736
+      HeroSpeak_White_SpriteSheet_108: 3745903714368512355
+      HeroSpeak_White_SpriteSheet_109: 90724820483826677
+      HeroSpeak_White_SpriteSheet_11: 2331877849635488225
+      HeroSpeak_White_SpriteSheet_110: -7904476077103545618
+      HeroSpeak_White_SpriteSheet_111: -1907183679145938725
+      HeroSpeak_White_SpriteSheet_112: -4794241932570802464
+      HeroSpeak_White_SpriteSheet_113: -2037883683230040454
+      HeroSpeak_White_SpriteSheet_114: 6193008789656398660
+      HeroSpeak_White_SpriteSheet_115: 3387834692082344703
+      HeroSpeak_White_SpriteSheet_116: 6703522512355666111
+      HeroSpeak_White_SpriteSheet_117: 4210426978388228182
+      HeroSpeak_White_SpriteSheet_118: -8710655700185462433
+      HeroSpeak_White_SpriteSheet_119: 5240821188849828215
+      HeroSpeak_White_SpriteSheet_12: -1048139803362863881
+      HeroSpeak_White_SpriteSheet_120: 5384143240647378037
+      HeroSpeak_White_SpriteSheet_121: 4343618447044921875
+      HeroSpeak_White_SpriteSheet_122: -1065651190580650718
+      HeroSpeak_White_SpriteSheet_123: 4163319889768191343
+      HeroSpeak_White_SpriteSheet_124: 4494520827445782870
+      HeroSpeak_White_SpriteSheet_13: 2861999811364887059
+      HeroSpeak_White_SpriteSheet_14: -8486294276760989232
+      HeroSpeak_White_SpriteSheet_15: -4512332468222850857
+      HeroSpeak_White_SpriteSheet_16: -5738175235835039763
+      HeroSpeak_White_SpriteSheet_17: -531215444674083572
+      HeroSpeak_White_SpriteSheet_18: 1363278993121282556
+      HeroSpeak_White_SpriteSheet_19: 3812753148226106210
+      HeroSpeak_White_SpriteSheet_2: -4083093433493809238
+      HeroSpeak_White_SpriteSheet_20: 1355708153858148002
+      HeroSpeak_White_SpriteSheet_21: -5017675587235332878
+      HeroSpeak_White_SpriteSheet_22: -4357165904842131433
+      HeroSpeak_White_SpriteSheet_23: 5109959700449351813
+      HeroSpeak_White_SpriteSheet_24: -251989327873078097
+      HeroSpeak_White_SpriteSheet_25: -5923240130881882777
+      HeroSpeak_White_SpriteSheet_26: 172460778409297033
+      HeroSpeak_White_SpriteSheet_27: 3296401774962188939
+      HeroSpeak_White_SpriteSheet_28: -7940006506297213264
+      HeroSpeak_White_SpriteSheet_29: -2121787398402664933
+      HeroSpeak_White_SpriteSheet_3: -1918654241819529625
+      HeroSpeak_White_SpriteSheet_30: 4981675701383576331
+      HeroSpeak_White_SpriteSheet_31: 5230867992390775542
+      HeroSpeak_White_SpriteSheet_32: -5207033215032408955
+      HeroSpeak_White_SpriteSheet_33: -426710250836040766
+      HeroSpeak_White_SpriteSheet_34: 4174481681633090224
+      HeroSpeak_White_SpriteSheet_35: 2988747808067528714
+      HeroSpeak_White_SpriteSheet_36: 7099636581601260130
+      HeroSpeak_White_SpriteSheet_37: 2835912176780035683
+      HeroSpeak_White_SpriteSheet_38: 1487427333768147042
+      HeroSpeak_White_SpriteSheet_39: 3878908948600777087
+      HeroSpeak_White_SpriteSheet_4: -3177785785535868015
+      HeroSpeak_White_SpriteSheet_40: -2869540953506686320
+      HeroSpeak_White_SpriteSheet_41: 3901275681046404206
+      HeroSpeak_White_SpriteSheet_42: -3738542508745343445
+      HeroSpeak_White_SpriteSheet_43: -1326931748691310924
+      HeroSpeak_White_SpriteSheet_44: -8442193161466131892
+      HeroSpeak_White_SpriteSheet_45: -3775252678609578177
+      HeroSpeak_White_SpriteSheet_46: 8093313090775737635
+      HeroSpeak_White_SpriteSheet_47: 8176583641105051652
+      HeroSpeak_White_SpriteSheet_48: 5942409038341371954
+      HeroSpeak_White_SpriteSheet_49: -3345118298097942778
+      HeroSpeak_White_SpriteSheet_5: 3061170079076309862
+      HeroSpeak_White_SpriteSheet_50: -237688022596163774
+      HeroSpeak_White_SpriteSheet_51: -4587037921848925128
+      HeroSpeak_White_SpriteSheet_52: 2830548661523568847
+      HeroSpeak_White_SpriteSheet_53: -7622752397952574892
+      HeroSpeak_White_SpriteSheet_54: -6209314460320709270
+      HeroSpeak_White_SpriteSheet_55: 7501621467466104547
+      HeroSpeak_White_SpriteSheet_56: 3394358934048685358
+      HeroSpeak_White_SpriteSheet_57: -8672851397522340308
+      HeroSpeak_White_SpriteSheet_58: 1685754849320555768
+      HeroSpeak_White_SpriteSheet_59: 2967428453777767673
+      HeroSpeak_White_SpriteSheet_6: 5689045607137736124
+      HeroSpeak_White_SpriteSheet_60: -5793576128616223801
+      HeroSpeak_White_SpriteSheet_61: -7393096173920884575
+      HeroSpeak_White_SpriteSheet_62: -8726154210586582859
+      HeroSpeak_White_SpriteSheet_63: 5487562175136738096
+      HeroSpeak_White_SpriteSheet_64: -6719664021260484654
+      HeroSpeak_White_SpriteSheet_65: -2295139778643103001
+      HeroSpeak_White_SpriteSheet_66: -4203839892468405401
+      HeroSpeak_White_SpriteSheet_67: -938990893926563680
+      HeroSpeak_White_SpriteSheet_68: -2048449698460916495
+      HeroSpeak_White_SpriteSheet_69: -6935588434431000887
+      HeroSpeak_White_SpriteSheet_7: -8289315968663996161
+      HeroSpeak_White_SpriteSheet_70: -7160161074032171648
+      HeroSpeak_White_SpriteSheet_71: 1872519273341078425
+      HeroSpeak_White_SpriteSheet_72: -1190719556985409218
+      HeroSpeak_White_SpriteSheet_73: -3324020642953636874
+      HeroSpeak_White_SpriteSheet_74: -233282602073647078
+      HeroSpeak_White_SpriteSheet_75: 1878659351358232602
+      HeroSpeak_White_SpriteSheet_76: 8251491084134085409
+      HeroSpeak_White_SpriteSheet_77: 2466747681024559113
+      HeroSpeak_White_SpriteSheet_78: 1728678427387194901
+      HeroSpeak_White_SpriteSheet_79: -2530402632881234529
+      HeroSpeak_White_SpriteSheet_8: -6166621648030173230
+      HeroSpeak_White_SpriteSheet_80: 2726545525731362529
+      HeroSpeak_White_SpriteSheet_81: -3687939609293477437
+      HeroSpeak_White_SpriteSheet_82: 1577651459996003138
+      HeroSpeak_White_SpriteSheet_83: -1112505037014664963
+      HeroSpeak_White_SpriteSheet_84: -5531945849941631626
+      HeroSpeak_White_SpriteSheet_85: 8622257399083609957
+      HeroSpeak_White_SpriteSheet_86: -2231957514885137338
+      HeroSpeak_White_SpriteSheet_87: 8032719586575506949
+      HeroSpeak_White_SpriteSheet_88: -4819651829047032781
+      HeroSpeak_White_SpriteSheet_89: -7451921250564623866
+      HeroSpeak_White_SpriteSheet_9: -5547956570701334007
+      HeroSpeak_White_SpriteSheet_90: -6223175374832177528
+      HeroSpeak_White_SpriteSheet_91: -351687886253046759
+      HeroSpeak_White_SpriteSheet_92: 7986751557386831324
+      HeroSpeak_White_SpriteSheet_93: 3057548349707747335
+      HeroSpeak_White_SpriteSheet_94: -7390695789465274830
+      HeroSpeak_White_SpriteSheet_95: 5489846412729396992
+      HeroSpeak_White_SpriteSheet_96: 1886567684101092013
+      HeroSpeak_White_SpriteSheet_97: -2709385365725117872
+      HeroSpeak_White_SpriteSheet_98: -8748503690935254
+      HeroSpeak_White_SpriteSheet_99: 217308970643211852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
